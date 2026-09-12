@@ -1,0 +1,18 @@
+English,German,Type,Register,Person,Number,Subject,SubjectExplicit,Audio
+Make your bed.,Mach dein Bett.,Imperative,informal,2,singular,du,false,assets/audio/mach_dein_bett.mp3
+Open the window.,Öffne das Fenster.,Imperative,informal,2,singular,du,false,assets/audio/oeffne_das_fenster.mp3
+Close the door.,Mach die Tür zu.,Imperative,informal,2,singular,du,false,assets/audio/mach_die_tuer_zu.mp3
+Turn on the light.,Mach das Licht an.,Imperative,informal,2,singular,du,false,assets/audio/mach_das_licht_an.mp3
+Turn off the light.,Mach das Licht aus.,Imperative,informal,2,singular,du,false,assets/audio/mach_das_licht_aus.mp3
+Clean your room.,Räum dein Zimmer auf.,Imperative,informal,2,singular,du,false,assets/audio/raeum_dein_zimmer_auf.mp3
+Wash the dishes.,Spül das Geschirr.,Imperative,informal,2,singular,du,false,assets/audio/spuel_das_geschirr.mp3
+Set the table.,Deck den Tisch.,Imperative,informal,2,singular,du,false,assets/audio/deck_den_tisch.mp3
+Clear the table.,Räum den Tisch ab.,Imperative,informal,2,singular,du,false,assets/audio/raeum_den_tisch_ab.mp3
+Take out the trash,Bring den Müll raus.,Imperative,informal,2,singular,du,false,assets/audio/bring_den_muell_raus.mp3
+Feed the cat.,Füttere die Katze.,Imperative,informal,2,singular,du,false,assets/audio/fuettere_die_katze.mp3
+Water the plants.,Gieß die Pflanzen.,Imperative,informal,2,singular,du,false,assets/audio/giess_die_pflanzen.mp3
+Do the laundry.,Wasch die Wäsche.,Imperative,informal,2,singular,du,false,assets/audio/wasch_die_waesche.mp3
+Vacuum the floor.,Saug den Boden.,Imperative,informal,2,singular,du,false,assets/audio/saug_den_boden.mp3
+Go to bed.,Geh ins Bett.,Imperative,informal,2,singular,du,false,assets/audio/geh_ins_bett.mp3
+I like your table.,Ich mag deinen Tisch.,Declarative,neutral,1,singular,ich,true,assets/audio/ich_mag_deinen_tisch.mp3
+The flowers look great.,Die Blumen sehen toll aus.,Declarative,neutral,3,plural,die Blumen,true,assets/audio/die_blumen_sehen_toll_aus.mp3
